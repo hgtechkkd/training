@@ -1,1 +1,22 @@
-{}
+{
+    "name": "training",
+    "description": "",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+        "test": "mocha --reporter list"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/hgtechkkd/training.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/hgtechkkd/training/issues"
+    },
+    "homepage": "https://github.com/hgtechkkd/training#readme",
+    "devDependencies": {
+        "mocha": "^9.2.0"
+    }
+}
